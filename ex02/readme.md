@@ -47,7 +47,7 @@ Ahora hacemos un soft link entre test0 y test6 usando ln con la opción -s:
 
 Se crea un fichero tipo link, que es un acceso directo al directorio test0, por defecto con todos los permisos habilitados.
 
-Ahora restaría modificar los permisos como vimos en el ejercicio anterior.
+Ahora restaría modificar los ficheros para que tengan el peso adecuado y por último los permisos, como vimos en el ejercicio anterior.
 
 Posteriormente, comprimir los archivos a entregar en un archivo llamado exo2.tar usando el comando del enunciado.
 
