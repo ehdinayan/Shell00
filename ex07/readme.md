@@ -41,9 +41,9 @@ Uno de los recursos que se nos facilita para el ejercicio es la salida de diff e
 
 - `1,2c1,8` **Cambiar** las líneas 1 y 2 del primer archivo por las líneas 1 a 8 del segundo archivo. A continuación se nos muestra las líneas del primer archivo a ser cambiadas precedidas por el signo (<), una separación (---), y luego las líneas 1 a 8 del fichero objetivo, precedidas por el signo (>).
 
-- De igual manera tenemos:`4,6d9`**Borrar (delete)** las lineas 4 a 6 del primer archivo para igualar al fichero objetivo en la linea 9.
+- De igual manera tenemos:`4,6d9` **Borrar (delete)** las lineas 4 a 6 del primer archivo para igualar al fichero objetivo en la linea 9.
 
-- **Borrar (delete)** la línea 8 del primer archivo de forma que se igualen los ficheros en la linea 9.
+- `8d10` **Borrar (delete)** la línea 8 del primer archivo de forma que se igualen los ficheros en la linea 10.
 
 - Hay otra posibilidad de salida que no aparece pero vale la pena comentar, sería la letra **a** en lugar de la **d** o la **c**, que querría decir **anexar** o poner a continuación.
 
