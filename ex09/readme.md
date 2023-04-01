@@ -60,9 +60,9 @@ Pero bueno, a mi me ha funcionado ejecutando directamente el comando:
 alejandro@debian:~/Documentos/Barcelona42/Shell00/ex09$ file -m ft_magic testfile
 testfile: 42file
 ```
-Para amenizar el repo, aprovechando que probablemente este año se venga otra entrega de Alien, una escena de la segunda película.
+Para amenizar el repo, aprovechando que probablemente este año se venga otra entrega de Alien, una escena de la segunda [película.](https://drive.google.com/file/d/1zTp6r287YX8-5Otd9yegp_Ct5WXuXwOZ/view?usp=sharing)
 
-En ella, Ripley, a pesar de haber conseguido salir ilesa de las diabólicas maquinaciones de la compañía, es acusada por la pérdida de la nave.
+En ella, Ripley, a pesar de haber conseguido salir ilesa de las diabólicas maquinaciones de la compañía y tras una hivernación de más de 50 años, es acusada por la pérdida de la nave.
 
 Creo que esto pasa bastante en el mundo empresarial realmente, cuando se busca un cabeza de turco al que culpar de algo ocasionado por las dudosas acciones de aquellos que tratan de ocultarlas con su acusación...
 
